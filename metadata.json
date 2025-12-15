@@ -1,0 +1,5 @@
+{
+  "name": "SkillBridge AI",
+  "description": "A smart AI-powered assistant that analyzes Job Descriptions to create personalized study plans, quizzes, and coding challenges for student placement preparation.",
+  "requestFramePermissions": []
+}
